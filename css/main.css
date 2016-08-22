@@ -1,0 +1,47 @@
+/* Inserta tu código aqui */
+*{
+  font-size: 15px;
+}
+.margin-top{
+  margin-top: 1%;
+  float: right;
+}
+ul li{
+  list-style: none;
+}
+.cuadrotitulo, .webzone{
+  display: inline-block;
+  padding: 1%;
+}
+
+.agenda{
+  margin-top: 4%;
+}
+.contenedorvideo, .bg-warning{
+  padding: 2%;
+}
+.paddingcuadrito{
+  padding: 20%;
+}
+
+/*ASIDE*/
+.bg-warning{
+  margin-top: 4%;
+}
+/*FOOTER*/
+.bordetop{
+  border-top: 2px solid black;
+  margin-top: 2%;
+}
+.margennegativofoot{
+  margin-left: -25%;
+}
+/*RESPONSIVE*/
+@media (min-width:768px) {
+
+  .paddingtextosection{
+    padding: 0%;
+    margin: 0%;
+  }
+
+}
